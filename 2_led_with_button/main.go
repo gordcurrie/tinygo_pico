@@ -4,8 +4,6 @@ import (
 	"machine"
 )
 
-var period uint64 = 1e9 / 500
-
 func main() {
 	button := machine.GP15
 	button.Configure(machine.PinConfig{Mode: machine.PinInputPulldown})
