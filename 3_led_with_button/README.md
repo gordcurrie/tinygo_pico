@@ -6,7 +6,7 @@
 * 6 * male to male jumper wires
 * 1 * button with pull up resistor
 * 1 * LED
-* 1 * 10k ohm resistor (brown, black, orange, gold)
+* 1 * 330 ohm resistor (orange, orange, brown, gold)
 
 # Assembly
 
@@ -18,5 +18,5 @@
 * LED 2 -> resistor 1
 * resistor 2 -> GP14
 
-![Diagram](https://github.com/gordcurrie/tinygo_pico/blob/main/2_led_with_button/pico_LED_button.png)
+![Diagram](https://github.com/gordcurrie/tinygo_pico/blob/main/3_led_with_button/pico_LED_button.png)
 
