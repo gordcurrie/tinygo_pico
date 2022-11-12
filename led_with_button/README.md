@@ -18,4 +18,5 @@
 * LED 2 -> resistor 1
 * resistor 2 -> GP14
 
-!(./pico_LED_button.png)
+![Diagram](https://github.com/gordcurrie/tinygo_pico/blob/main/led_with_button/pico_LED_button.png)
+
