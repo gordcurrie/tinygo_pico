@@ -21,5 +21,5 @@
 * LED 2 -> resistor 1
 * resistor 2 -> GP14
 
-![Diagram](https://github.com/gordcurrie/tinygo_pico/blob/main/3_led_with_button/phototransistor.png)
+![Diagram](https://github.com/gordcurrie/tinygo_pico/blob/main/4_phototransistor/phototransistor.png)
 
