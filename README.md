@@ -8,6 +8,6 @@ Playing around with [TinyGo](https://tinygo.org/) and a Raspberry Pi [Pico](http
 
 TinyGo installed and configured - https://tinygo.org/getting-started/install/
 
-If comfortable using Vim and [direnv](https://direnv.net/) for development install and use [TinyHelper](https://github.com/gordcurrie/tinyhelper) for configuring environment variables for easy used.
+If comfortable using Vim and [direnv](https://direnv.net/) for development install and use [TinyHelper](https://github.com/gordcurrie/tinyhelper) for configuring environment variables for easy use.
 
 Otherwise https://tinygo.org/docs/guides/ide-integration/
