@@ -5,6 +5,7 @@
 * Raspberry Pi Pico
 * 7 * male to male jumper wires
 * 1 * rotary potentiometer
+* 1 * servo
 
 # Assembly
 
